@@ -1,0 +1,34 @@
+@import url(//db.onlinewebfonts.com/c/1868e326d3ee28e5395f6efa2bc037bf?family=Eina01-Regular);
+@font-face {font-family: "Eina01-Regular"; src: url("//db.onlinewebfonts.com/t/1868e326d3ee28e5395f6efa2bc037bf.eot"); src: url("//db.onlinewebfonts.com/t/1868e326d3ee28e5395f6efa2bc037bf.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/1868e326d3ee28e5395f6efa2bc037bf.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/1868e326d3ee28e5395f6efa2bc037bf.woff") format("woff"), url("//db.onlinewebfonts.com/t/1868e326d3ee28e5395f6efa2bc037bf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/1868e326d3ee28e5395f6efa2bc037bf.svg#Eina01-Regular") format("svg"); } 
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font: 12px/1.5 Eina01-Regular,Helvetica Neue,Helvetica,Arial,PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
+  color: #333;
+  background-color: #fff;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+a.link {
+  color: #0085ff;
+}
+
+div {
+  display: block;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
